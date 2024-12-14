@@ -3,17 +3,19 @@ defmodule P.Data.File do
 
   @src_dir "card_files"
 
-  def get_card_series(id), do: read_file("#{@src_dir}/cards/en/#{id}.json")
+  def read_card_series(id), do: read_file("#{@src_dir}/cards/en/#{id}.json")
+  def list_card_series(), do: list_files_in_dir("#{@src_dir}/cards/en") |> Enum.map(&String.split(&1, ".json") |> List.first)
+  def list_cards_in_series(series), do: read_card_series(series) |> elem(1) |> Enum.map(&Map.get(&1, "id"))
 
-  def get_card(series, id) do
-    case get_card_series(series) do
+  def read_card(series, id) do
+    case read_card_series(series) do
       {:ok, data} -> card_from_list(data, id)
       {:error, _} -> {:error, :not_found}
     end
   end
 
-  def get_deck_series(id), do: read_file("#{@src_dir}/decks/en/#{id}.json")
-  def get_sets(), do: read_file("#{@src_dir}/sets/en.json")
+  def read_deck_series(id), do: read_file("#{@src_dir}/decks/en/#{id}.json")
+  def read_sets(), do: read_file("#{@src_dir}/sets/en.json")
 
   def card_from_list(list, id) do
     case Enum.find(list, fn card -> card["id"] == id end) do
@@ -26,7 +28,7 @@ defmodule P.Data.File do
   def to_card_changeset(data) do
     data =
       %{}
-      |> Map.put(:id, data["id"])
+      |> Map.put(:card_id, data["id"])
       |> Map.put(:number, data["number"])
       |> Map.put(:name, data["name"])
       |> Map.put(:supertype, data["supertype"])
@@ -40,8 +42,6 @@ defmodule P.Data.File do
   end
 
   def to_data_schema(data) do
-    IO.inspect(data)
-
     %{}
     |> Map.put(:level, Map.get(data, "level", -1))
     |> Map.put(:hp, data["hp"])
@@ -86,6 +86,13 @@ defmodule P.Data.File do
 
       {:error, _} ->
         {:error, :not_found}
+    end
+  end
+
+  defp list_files_in_dir(dir) do
+    case File.ls(dir) do
+      {:ok, files} -> files
+      {:error, _} -> []
     end
   end
 end

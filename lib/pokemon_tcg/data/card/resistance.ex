@@ -3,6 +3,7 @@ defmodule P.Data.Card.Resistance do
   import Ecto.Changeset
   alias P.Data.Card
 
+  @primary_key false
   embedded_schema do
     field :type, Ecto.Enum, values: Card.types()
     field :value, :string

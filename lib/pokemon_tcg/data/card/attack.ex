@@ -4,6 +4,7 @@ defmodule P.Data.Card.Attack do
 
   alias P.Data.Card
 
+  @primary_key false
   embedded_schema do
     field :name, :string
     field :cost, {:array, Ecto.Enum}, values: Card.types()

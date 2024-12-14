@@ -4,6 +4,7 @@ defmodule P.Repo.Migrations.CreateCards do
   def change do
     create table(:cards, primary_key: false) do
       add :id, :binary_id, primary_key: true
+      add :card_id, :string
       add :name, :string
       add :supertype, :string
       add :subtypes, {:array, :string}
