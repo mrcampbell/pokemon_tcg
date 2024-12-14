@@ -1,4 +1,5 @@
 defmodule P.Data.Card do
+  alias P.Data.Card.Data
   use Ecto.Schema
   import Ecto.Changeset
 
@@ -12,7 +13,7 @@ defmodule P.Data.Card do
   @primary_key {:id, :binary_id, autogenerate: true}
   @foreign_key_type :binary_id
   schema "cards" do
-    field :data, :map
+    embeds_one :data, Data
     field :name, :string
     field :number, :string
     field :types, {:array, Ecto.Enum}, values: @types
@@ -27,7 +28,10 @@ defmodule P.Data.Card do
   @doc false
   def changeset(card, attrs) do
     card
-    |> cast(attrs, [:name, :supertype, :subtypes, :types, :evolves_to, :evolves_from, :number, :data])
+    |> cast(attrs, [:name, :supertype, :subtypes, :types, :evolves_to, :evolves_from, :number])
     |> validate_required([:name, :supertype, :subtypes, :types, :number])
+    |> cast_embed(:data, with: &Data.changeset/2)
   end
+
+  def types(), do: @types
 end
