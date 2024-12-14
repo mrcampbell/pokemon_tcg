@@ -4,32 +4,50 @@ defmodule P.Data.File do
   @src_dir "card_files"
 
   def get_card_series(id), do: read_file("#{@src_dir}/cards/en/#{id}.json")
+
+  def get_card(series, id) do
+    case get_card_series(series) do
+      {:ok, data} -> card_from_list(data, id)
+      {:error, _} -> {:error, :not_found}
+    end
+  end
+
   def get_deck_series(id), do: read_file("#{@src_dir}/decks/en/#{id}.json")
   def get_sets(), do: read_file("#{@src_dir}/sets/en.json")
 
-  @spec to_card(map) :: Card.t()
-  def to_card(data) do
-    data = %{}
-    |> Map.put(:id, data["id"])
-    |> Map.put(:number, data["number"])
-    |> Map.put(:name, data["name"])
-    |> Map.put(:supertype, data["supertype"])
-    |> Map.put(:subtypes, data["subtypes"])
-    |> Map.put(:types, data["types"])
-    |> Map.put(:evolves_to, data["evolvesTo"])
-    |> Map.put(:evolves_from, data["evolvesFrom"])
-    |> Map.put(:data, to_data_schema(data))
+  def card_from_list(list, id) do
+    case Enum.find(list, fn card -> card["id"] == id end) do
+      nil -> {:error, :not_found}
+      card -> {:ok, card}
+    end
+  end
+
+  # @spec to_card(map) :: %Card{}
+  def to_card_changeset(data) do
+    data =
+      %{}
+      |> Map.put(:id, data["id"])
+      |> Map.put(:number, data["number"])
+      |> Map.put(:name, data["name"])
+      |> Map.put(:supertype, data["supertype"])
+      |> Map.put(:subtypes, data["subtypes"])
+      |> Map.put(:types, data["types"])
+      |> Map.put(:evolves_to, data["evolvesTo"])
+      |> Map.put(:evolves_from, data["evolvesFrom"])
+      |> Map.put(:data, to_data_schema(data))
 
     Card.changeset(%Card{}, data)
   end
 
   def to_data_schema(data) do
     IO.inspect(data)
+
     %{}
-    |> Map.put(:level, data["level"])
+    |> Map.put(:level, Map.get(data, "level", -1))
     |> Map.put(:hp, data["hp"])
     |> Map.put(:attacks, to_attacks(data["attacks"]))
-    |> Map.put(:weaknesses, data["weaknesses"])
+    |> Map.put(:weaknesses, Map.get(data, "weaknesses", []))
+    |> Map.put(:resistances, Map.get(data, "resistances", []))
     |> Map.put(:retreat_cost, data["retreatCost"])
     |> Map.put(:converted_retreat_cost, data["convertedRetreatCost"])
     |> Map.put(:artist, data["artist"])
@@ -40,6 +58,7 @@ defmodule P.Data.File do
   end
 
   def to_attacks(nil), do: []
+
   def to_attacks(data) do
     data
     |> Enum.map(&to_attack/1)
@@ -64,6 +83,7 @@ defmodule P.Data.File do
     case File.read(path) do
       {:ok, json} ->
         {:ok, Jason.decode!(json)}
+
       {:error, _} ->
         {:error, :not_found}
     end

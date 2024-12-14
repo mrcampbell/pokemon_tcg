@@ -4,6 +4,7 @@ defmodule P.Data.Card.Data do
 
   alias P.Data.Card
   alias P.Data.Card.Weakness
+  alias P.Data.Card.Resistance
   alias P.Data.Card.Attack
 
   embedded_schema do
@@ -11,8 +12,9 @@ defmodule P.Data.Card.Data do
     field :hp, :integer
     embeds_many :attacks, Attack
     embeds_many :weaknesses, Weakness
-    field :retreat_cost, {:array, Ecto.Enum}, values: Card.types()
-    field :converted_retreat_cost, :integer
+    embeds_many :resistances, Resistance
+    field :retreat_cost, {:array, Ecto.Enum}, values: Card.types(), default: []
+    field :converted_retreat_cost, :integer, default: 0
     field :artist, :string
     field :rarity, :string
     field :flavor_text, :string
@@ -24,8 +26,9 @@ defmodule P.Data.Card.Data do
   def changeset(content, attrs) do
     content
     |> cast(attrs, [:level, :hp, :retreat_cost, :converted_retreat_cost, :artist, :rarity, :flavor_text, :national_pokedex_numbers, :legalities])
-    |> validate_required([:level, :hp, :retreat_cost, :converted_retreat_cost, :artist, :rarity, :flavor_text, :national_pokedex_numbers, :legalities])
-    |> cast_embed(:attacks, with: &Attack.changeset/2)
-    |> cast_embed(:weaknesses, with: &Weakness.changeset/2)
+    |> validate_required([:level, :hp, :artist, :rarity, :flavor_text, :national_pokedex_numbers, :legalities])
+    |> cast_embed(:attacks, with: &Attack.changeset/2, required: false)
+    |> cast_embed(:weaknesses, with: &Weakness.changeset/2, required: false)
+    |> cast_embed(:resistances, with: &Resistance.changeset/2, required: false)
   end
 end
