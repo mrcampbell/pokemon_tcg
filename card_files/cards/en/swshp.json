@@ -28,7 +28,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -80,7 +80,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -133,7 +133,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -200,7 +200,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -259,7 +259,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -319,7 +319,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -379,7 +379,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -439,7 +439,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -503,7 +503,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -555,7 +555,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -617,7 +617,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -668,7 +668,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -730,7 +730,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -801,7 +801,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -864,7 +864,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -928,7 +928,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -992,7 +992,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1054,7 +1054,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -1122,7 +1122,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -1174,7 +1174,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30×",
+        "damage": "30x",
         "text": "Flip a coin until you get tails. This attack does 30 damage for each heads."
       },
       {
@@ -1192,7 +1192,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1254,7 +1254,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -1317,7 +1317,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1377,7 +1377,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1437,7 +1437,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1499,7 +1499,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1559,7 +1559,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1621,7 +1621,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -1690,7 +1690,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -1758,7 +1758,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -1832,7 +1832,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -1899,7 +1899,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1962,7 +1962,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2028,7 +2028,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -2094,7 +2094,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -2159,7 +2159,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2218,7 +2218,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2278,7 +2278,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2341,7 +2341,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2405,7 +2405,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2467,7 +2467,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -2534,7 +2534,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2604,7 +2604,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2666,7 +2666,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2731,7 +2731,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2785,14 +2785,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30×",
+        "damage": "30x",
         "text": "This attack does 30 damage for each of your Darkness Pokémon in play."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2852,7 +2852,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2916,7 +2916,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2980,7 +2980,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3044,7 +3044,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3111,7 +3111,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3164,7 +3164,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3225,7 +3225,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -3276,7 +3276,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20×",
+        "damage": "20x",
         "text": "This attack does 20 damage for each Fighting Pokémon in your discard pile."
       },
       {
@@ -3294,7 +3294,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3356,7 +3356,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3424,7 +3424,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -3494,7 +3494,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3558,7 +3558,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3618,7 +3618,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3676,7 +3676,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3737,7 +3737,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -3811,7 +3811,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3868,7 +3868,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3927,14 +3927,14 @@
           "Lightning"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30×",
+        "damage": "30x",
         "text": "This attack does 30 damage for each of your Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3998,7 +3998,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4072,7 +4072,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4129,7 +4129,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4192,7 +4192,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4254,7 +4254,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4318,7 +4318,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -4377,7 +4377,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4439,7 +4439,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4498,7 +4498,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4560,7 +4560,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4622,7 +4622,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4683,7 +4683,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4747,7 +4747,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -4815,7 +4815,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -4884,7 +4884,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4935,14 +4935,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "20×",
+        "damage": "20x",
         "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4987,14 +4987,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "20×",
+        "damage": "20x",
         "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5045,14 +5045,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20×",
+        "damage": "20x",
         "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -5104,14 +5104,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20×",
+        "damage": "20x",
         "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5167,14 +5167,14 @@
           "Psychic"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30×",
+        "damage": "30x",
         "text": "This attack does 30 damage for each card in your opponent's hand."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -5240,7 +5240,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5302,7 +5302,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5366,7 +5366,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -5436,7 +5436,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5495,7 +5495,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5556,7 +5556,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5616,7 +5616,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5676,7 +5676,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -5746,7 +5746,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5808,7 +5808,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5869,7 +5869,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "number": "SWSH094",
@@ -5935,7 +5935,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -5998,7 +5998,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -6066,7 +6066,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -6132,7 +6132,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6196,7 +6196,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6260,7 +6260,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6325,7 +6325,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6373,7 +6373,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30×",
+        "damage": "30x",
         "text": "This attack does 30 damage for each Grass Energy attached to all of your Pokémon."
       },
       {
@@ -6392,7 +6392,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6461,7 +6461,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6518,14 +6518,14 @@
           "Fire"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30×",
+        "damage": "30x",
         "text": "This attack does 30 damage for each Energy attached to both Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6589,7 +6589,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6655,7 +6655,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6721,7 +6721,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6784,7 +6784,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6852,7 +6852,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6914,7 +6914,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -6977,7 +6977,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -7041,7 +7041,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7100,7 +7100,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7159,7 +7159,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -7222,7 +7222,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7281,7 +7281,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7336,14 +7336,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30×",
+        "damage": "30x",
         "text": "This attack does 30 damage for each damage counter on this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7413,7 +7413,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7475,7 +7475,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7588,7 +7588,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7647,7 +7647,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -7712,7 +7712,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "number": "SWSH124",
@@ -7766,7 +7766,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7831,7 +7831,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -7908,7 +7908,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -7968,7 +7968,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8030,7 +8030,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8095,7 +8095,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8159,7 +8159,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -8230,7 +8230,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -8284,7 +8284,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8350,7 +8350,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8413,7 +8413,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -8479,7 +8479,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8541,7 +8541,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8606,7 +8606,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8692,7 +8692,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8779,7 +8779,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8866,7 +8866,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -8953,7 +8953,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9010,7 +9010,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9072,7 +9072,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9127,7 +9127,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9326,7 +9326,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9391,7 +9391,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9448,14 +9448,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "60×",
+        "damage": "60x",
         "text": "Flip 4 coins. This attack does 60 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "number": "SWSH151",
@@ -9528,7 +9528,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9689,7 +9689,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9790,7 +9790,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9891,7 +9891,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -9992,7 +9992,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -10086,7 +10086,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -10186,7 +10186,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -10286,7 +10286,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -10386,7 +10386,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -10479,7 +10479,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -10572,7 +10572,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -10665,7 +10665,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -10758,7 +10758,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -10846,7 +10846,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -10904,7 +10904,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -10958,7 +10958,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -11082,7 +11082,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11136,7 +11136,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11196,7 +11196,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -11272,7 +11272,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11335,7 +11335,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11395,7 +11395,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11486,7 +11486,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11535,14 +11535,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "100×",
+        "damage": "100x",
         "text": "Discard the top 5 cards of your deck. This attack does 100 damage for each Energy card you discarded in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11607,7 +11607,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11672,7 +11672,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11729,14 +11729,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "60×",
+        "damage": "60x",
         "text": "Flip 4 coins. This attack does 60 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "number": "SWSH183",
@@ -11785,7 +11785,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "number": "SWSH184",
@@ -11829,7 +11829,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11888,7 +11888,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -11948,7 +11948,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12008,7 +12008,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12134,7 +12134,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12194,7 +12194,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12255,7 +12255,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12307,7 +12307,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12372,7 +12372,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12435,7 +12435,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12500,7 +12500,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12567,7 +12567,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12626,7 +12626,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12690,7 +12690,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12753,7 +12753,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -12822,7 +12822,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -12889,7 +12889,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -12953,7 +12953,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13018,7 +13018,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13080,7 +13080,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13140,7 +13140,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -13207,7 +13207,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13268,7 +13268,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -13338,7 +13338,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13399,7 +13399,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -13466,7 +13466,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13536,7 +13536,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13601,7 +13601,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13660,14 +13660,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "70×",
+        "damage": "70x",
         "text": "This attack does 70 damage for each Energy attached to all of your opponent's Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13735,7 +13735,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "100×",
+        "damage": "100x",
         "text": "Discard all energy from this Pokémon. This attack does 100 damage for each card you discarded in this way."
       },
       {
@@ -13753,7 +13753,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13820,7 +13820,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "100×",
+        "damage": "100x",
         "text": "Discard all energy from this Pokémon. This attack does 100 damage for each card you discarded in this way."
       },
       {
@@ -13838,7 +13838,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13905,7 +13905,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "100×",
+        "damage": "100x",
         "text": "Discard all energy from this Pokémon. This attack does 100 damage for each card you discarded in this way."
       },
       {
@@ -13923,7 +13923,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -13990,7 +13990,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "100×",
+        "damage": "100x",
         "text": "Discard all energy from this Pokémon. This attack does 100 damage for each card you discarded in this way."
       },
       {
@@ -14008,7 +14008,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14072,7 +14072,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14123,7 +14123,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14185,7 +14185,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14238,7 +14238,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14304,7 +14304,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -14376,7 +14376,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -14448,7 +14448,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14590,7 +14590,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -14671,7 +14671,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14734,7 +14734,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14788,7 +14788,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14841,7 +14841,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -14905,7 +14905,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15090,7 +15090,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -15161,7 +15161,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15226,7 +15226,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15286,7 +15286,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15344,7 +15344,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -15409,7 +15409,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15468,7 +15468,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15533,7 +15533,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15585,7 +15585,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15647,7 +15647,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15701,14 +15701,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 4,
-        "damage": "120×",
+        "damage": "120x",
         "text": "Flip 2 coins. This attack does 120 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15776,7 +15776,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15833,14 +15833,14 @@
           "Fighting"
         ],
         "convertedEnergyCost": 1,
-        "damage": "30×",
+        "damage": "30x",
         "text": "This attack does 30 damage for each Pokémon in your discard pile. (You can't use more than 1 VSTAR Power in a game.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15903,7 +15903,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -15974,7 +15974,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "30×",
+        "damage": "30x",
         "text": "Flip a coin until you get tails. This attack does 30 damage for each heads."
       },
       {
@@ -15992,7 +15992,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "number": "SWSH252",
@@ -16052,7 +16052,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -16114,7 +16114,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -16180,7 +16180,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -16253,7 +16253,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -16325,7 +16325,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -16390,7 +16390,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -16517,7 +16517,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -16586,7 +16586,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -16654,7 +16654,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -16720,7 +16720,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -16767,7 +16767,7 @@
           "Lightning"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60×",
+        "damage": "60x",
         "text": "This attack does 60 damage for each of your opponent's Pokémon in play that has an Ability."
       },
       {
@@ -16785,7 +16785,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -16853,7 +16853,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "number": "SWSH265",
@@ -16914,7 +16914,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -16983,7 +16983,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -17048,14 +17048,14 @@
           "Psychic"
         ],
         "convertedEnergyCost": 1,
-        "damage": "60×",
+        "damage": "60x",
         "text": "This attack does 60 damage for each Energy attached to both Active Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -17113,7 +17113,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17173,7 +17173,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17236,7 +17236,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17297,7 +17297,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -17363,7 +17363,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17427,7 +17427,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17488,7 +17488,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17550,7 +17550,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17614,7 +17614,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17675,7 +17675,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17734,7 +17734,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17798,7 +17798,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -17916,7 +17916,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -17981,7 +17981,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "number": "SWSH283",
@@ -18035,7 +18035,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18094,7 +18094,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18159,7 +18159,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18227,7 +18227,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "100×",
+        "damage": "100x",
         "text": "Discard all energy from this Pokémon. This attack does 100 damage for each card you discarded in this way."
       },
       {
@@ -18245,7 +18245,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18312,7 +18312,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "100×",
+        "damage": "100x",
         "text": "Discard all energy from this Pokémon. This attack does 100 damage for each card you discarded in this way."
       },
       {
@@ -18330,7 +18330,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18397,7 +18397,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "100×",
+        "damage": "100x",
         "text": "Discard all energy from this Pokémon. This attack does 100 damage for each card you discarded in this way."
       },
       {
@@ -18415,7 +18415,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18482,7 +18482,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "100×",
+        "damage": "100x",
         "text": "Discard all energy from this Pokémon. This attack does 100 damage for each card you discarded in this way."
       },
       {
@@ -18500,7 +18500,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18558,14 +18558,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "70×",
+        "damage": "70x",
         "text": "This attack does 70 damage for each Energy attached to all of your opponent's Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18628,7 +18628,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -18696,7 +18696,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -18748,7 +18748,7 @@
 
         ],
         "convertedEnergyCost": 0,
-        "damage": "100×",
+        "damage": "100x",
         "text": "This attack does 100 damage for each Special Condition affecting this Pokémon."
       },
       {
@@ -18765,7 +18765,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18827,7 +18827,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18915,7 +18915,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -18970,14 +18970,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "50×",
+        "damage": "50x",
         "text": "This attack does 50 damage for each of your Pokémon that has any damage counters on it."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -19054,7 +19054,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -19108,7 +19108,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -19163,7 +19163,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -19229,7 +19229,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -19292,7 +19292,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [

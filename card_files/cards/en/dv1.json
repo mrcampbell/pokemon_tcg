@@ -28,7 +28,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -88,7 +88,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -152,7 +152,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -208,14 +208,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30×",
+        "damage": "30x",
         "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -272,14 +272,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 4,
-        "damage": "60×",
+        "damage": "60x",
         "text": "Flip 4 coins. This attack does 60 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -342,7 +342,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -405,7 +405,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -466,7 +466,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -525,7 +525,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -585,7 +585,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -644,7 +644,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -706,7 +706,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -758,7 +758,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -819,7 +819,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -883,7 +883,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -946,7 +946,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1000,14 +1000,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "80×",
+        "damage": "80x",
         "text": "Flip 2 coins. This attack does 80 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1140,7 +1140,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [

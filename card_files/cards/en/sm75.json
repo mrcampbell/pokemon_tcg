@@ -28,7 +28,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -90,7 +90,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -149,7 +149,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -201,7 +201,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -261,7 +261,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -319,7 +319,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -366,14 +366,14 @@
           "Fire"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20×",
+        "damage": "20x",
         "text": "This attack does 20 damage for each basic Energy card in your discard pile. Then, shuffle those cards into your deck."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -425,7 +425,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -486,7 +486,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -545,7 +545,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -622,7 +622,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -666,14 +666,14 @@
           "Fire"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10×",
+        "damage": "10x",
         "text": "Flip 3 coins. This attack does 10 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -734,7 +734,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -793,7 +793,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -844,7 +844,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -895,7 +895,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -947,7 +947,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1018,7 +1018,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1069,7 +1069,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1127,7 +1127,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1189,7 +1189,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1243,14 +1243,14 @@
           "Water"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10×",
+        "damage": "10x",
         "text": "Flip 3 coins. This attack does 10 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1314,7 +1314,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1372,7 +1372,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1435,7 +1435,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1493,7 +1493,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1545,7 +1545,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1603,7 +1603,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1663,7 +1663,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1719,7 +1719,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1774,7 +1774,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1825,7 +1825,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1883,7 +1883,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -1941,7 +1941,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -1994,7 +1994,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2042,7 +2042,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "60×",
+        "damage": "60x",
         "text": "Flip 2 coins. This attack does 60 damage for each heads."
       },
       {
@@ -2061,7 +2061,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2138,7 +2138,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2192,7 +2192,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2250,7 +2250,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2307,7 +2307,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2364,7 +2364,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2439,7 +2439,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2499,7 +2499,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2559,7 +2559,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2634,7 +2634,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2691,7 +2691,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2753,7 +2753,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2815,7 +2815,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2891,7 +2891,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2951,7 +2951,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -2996,14 +2996,14 @@
           "Fire"
         ],
         "convertedEnergyCost": 3,
-        "damage": "50×",
+        "damage": "50x",
         "text": "Discard any amount of Fire Energy from your Pokémon. This attack does 50 damage for each card you discarded in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3064,7 +3064,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3125,7 +3125,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3189,7 +3189,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3251,7 +3251,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3321,7 +3321,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3383,7 +3383,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -3440,7 +3440,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "resistances": [
@@ -3714,7 +3714,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3785,7 +3785,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3861,7 +3861,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -3937,7 +3937,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4060,7 +4060,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4135,7 +4135,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4208,7 +4208,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4283,7 +4283,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
@@ -4419,7 +4419,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "×2"
+        "value": "x2"
       }
     ],
     "retreatCost": [
