@@ -37,6 +37,10 @@ defmodule P.Data do
   """
   def get_card!(id), do: Repo.get!(Card, id)
 
+  def get_card_by_card_id!(card_id), do: Repo.get_by!(Card, card_id: card_id)
+
+  def get_cards_by_name!(name), do: Repo.all(from c in Card, where: c.name == ^name)
+
   @doc """
   Creates a card.
 
