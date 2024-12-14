@@ -5,7 +5,7 @@ defmodule P.Data.Card.Weakness do
 
   embedded_schema do
     field :type, Ecto.Enum, values: Card.types()
-    field :value, Ecto.Enum, values: ["x2": 0] # not sure if there are others, but it's open ended
+    field :value, :string
   end
 
   @doc false
