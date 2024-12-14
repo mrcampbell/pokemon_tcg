@@ -6,9 +6,9 @@ defmodule P.Repo.Migrations.CreateCards do
       add :id, :binary_id, primary_key: true
       add :card_id, :string
       add :name, :string
-      add :supertype, :string
-      add :subtypes, {:array, :string}
-      add :types, {:array, :string}
+      add :supertype, :integer
+      add :subtypes, {:array, :integer}
+      add :types, {:array, :integer}
       add :evolves_to, {:array, :string}
       add :evolves_from, :string
       add :number, :string

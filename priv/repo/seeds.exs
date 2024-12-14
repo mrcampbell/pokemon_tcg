@@ -17,7 +17,7 @@ DataFile.list_card_series()
   DataFile.list_cards_in_series(series)
   |> Enum.each(fn id ->
     case DataFile.read_card(series, id) do
-      {:ok, card} -> DataFile.to_card_changeset(card) |> IO.inspect() |> P.Repo.insert!()
+      {:ok, card} -> DataFile.to_card_changeset(card) |> IO.inspect() |> P.Repo.insert()
       _ -> IO.puts("Card not found: #{series} #{id}")
     end
   end)
